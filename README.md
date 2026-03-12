@@ -33,11 +33,6 @@ Você pode instalar diretamente do diretório fonte:
 pip install .
 ```
 
-Ou, se publicado no PyPI:
-
-```bash
-pip install uhk-kernel
-```
 
 Isso instalará automaticamente todas as dependências (`brainflow`, `qiskit`, `numpy`, etc.).
 
