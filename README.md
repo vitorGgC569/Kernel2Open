@@ -111,4 +111,3 @@ Quer publicar esta biblioteca no PyPI? Veja o guia completo em:
 Este projeto atingiu a maturidade V1.0. Contribuições para suporte a AMD ROCm ou FPGAs são bem-vindas.
 
 ---
-*Implementado por Jules, AI Software Engineer.*
