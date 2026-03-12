@@ -76,15 +76,6 @@ python3 tests/test_exotic_hardware.py
 ```
 
 
-## 📚 Documentação Técnica
-
-1.  **[Artigo Técnico Completo](docs/ARTIGO_TECNICO.md)**
-    *   Resultados reais de validação, arquitetura híbrida e detalhes de hardware.
-2.  **[Deep Dive Tecnológico](docs/TECHNOLOGY_DEEP_DIVE.md)**
-    *   Como funcionam os módulos Ghost, BCI, e Quantum por baixo do capô.
-3.  **[Roadmap](docs/ROADMAP.md)**
-    *   Status de conclusão de cada fase do projeto.
-
 ## 🛠️ Estrutura do Código
 
 *   `src/host/`: Runtime C++ (Gerenciador de Ring Buffer).
