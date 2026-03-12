@@ -75,10 +75,6 @@ python3 tests/benchmark_real.py
 python3 tests/test_exotic_hardware.py
 ```
 
-## 📚 Documentação para Publicação
-
-Quer publicar esta biblioteca no PyPI? Veja o guia completo em:
-👉 **[PUBLICACAO.md](PUBLICACAO.md)**
 
 ## 📚 Documentação Técnica
 
