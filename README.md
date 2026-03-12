@@ -5,7 +5,7 @@
 ![Latency](https://img.shields.io/badge/Latency-1.1%C2%B5s-brightgreen)
 ![Tech](https://img.shields.io/badge/Tech-Hybrid%20%7C%20BitNet%20%7C%20Quantum%20%7C%20BCI-blueviolet)
 
-> **"Nada absolutamente nada deve ser Simulação."**
+> **"Só é funcional, se todos tem acesso."**
 
 O **Universal Heterogeneous Kernel (UHK)** é uma plataforma unificada de Computação de Alto Desempenho (HPC) que funde CPU, GPU, e Hardware Exótico (Quântico, BCI, Fotônico) em um único tecido de execução contínua.
 
