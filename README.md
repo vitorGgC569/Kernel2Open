@@ -64,15 +64,6 @@ print(f"Latency: {runtime.get_latency()} us")
 runtime.shutdown()
 ```
 
-### Rodando o Dashboard
-Para visualizar as métricas em tempo real:
-
-```bash
-# Navegue até a pasta do frontend
-cd frontend
-python3 app.py
-```
-Acesse `http://localhost:5000` no seu navegador.
 
 ### Benchmark e Testes
 
